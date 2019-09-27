@@ -12,11 +12,8 @@ of modification on your side, just add it to the installed apps.
 Requirements
 ------------
 
--  Django ``==1.8``
+-  Django ``1.11``
 
-With Django ``1.6`` use version ``2.3.6``
-
-With Django ``1.7`` use version ``2.4.0``
 
 Installation
 ------------
