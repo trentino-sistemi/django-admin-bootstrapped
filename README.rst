@@ -18,7 +18,7 @@ Requirements
 Installation
 ------------
 
-1. Download it from PyPi with ``pip install django-admin-bootstrapped``
+1. Download it from PyPi with ``pip install tendenci-django-admin-bootstrapped``
 2. Add into the ``INSTALLED_APPS`` **before** ``'django.contrib.admin'``:
 
 ::
