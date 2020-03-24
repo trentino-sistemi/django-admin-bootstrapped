@@ -22,7 +22,7 @@ setup(
     maintainer="Tendenci",
     maintainer_email="programmers@tendenci.com",
     name='tendenci-django-admin-bootstrapped',
-    version='3.0',
+    version='4.0',
     description='A Bootstrap theme for Django Admin',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     url='https://github.com/tendenci/django-admin-bootstrapped',
@@ -31,7 +31,7 @@ setup(
     classifiers=CLASSIFIERS,
     install_requires=[
         'setuptools',
-        'Django>=1.11,<2.0',
+        'Django>=1.11,<3.0',
     ],
     test_suite='django_admin_bootstrapped.runtests.runtests',
     packages=find_packages(),
